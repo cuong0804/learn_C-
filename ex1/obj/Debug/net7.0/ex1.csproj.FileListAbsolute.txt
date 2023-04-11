@@ -1,0 +1,15 @@
+/home/cuong/learn_C-/ex1/bin/Debug/net7.0/ex1
+/home/cuong/learn_C-/ex1/bin/Debug/net7.0/ex1.deps.json
+/home/cuong/learn_C-/ex1/bin/Debug/net7.0/ex1.runtimeconfig.json
+/home/cuong/learn_C-/ex1/bin/Debug/net7.0/ex1.dll
+/home/cuong/learn_C-/ex1/bin/Debug/net7.0/ex1.pdb
+/home/cuong/learn_C-/ex1/obj/Debug/net7.0/ex1.csproj.AssemblyReference.cache
+/home/cuong/learn_C-/ex1/obj/Debug/net7.0/ex1.GeneratedMSBuildEditorConfig.editorconfig
+/home/cuong/learn_C-/ex1/obj/Debug/net7.0/ex1.AssemblyInfoInputs.cache
+/home/cuong/learn_C-/ex1/obj/Debug/net7.0/ex1.AssemblyInfo.cs
+/home/cuong/learn_C-/ex1/obj/Debug/net7.0/ex1.csproj.CoreCompileInputs.cache
+/home/cuong/learn_C-/ex1/obj/Debug/net7.0/ex1.dll
+/home/cuong/learn_C-/ex1/obj/Debug/net7.0/refint/ex1.dll
+/home/cuong/learn_C-/ex1/obj/Debug/net7.0/ex1.pdb
+/home/cuong/learn_C-/ex1/obj/Debug/net7.0/ex1.genruntimeconfig.cache
+/home/cuong/learn_C-/ex1/obj/Debug/net7.0/ref/ex1.dll

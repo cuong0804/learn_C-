@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IFeM94rXofnjY8IbSS7LFJ2BG+0D93OGsTZWtns82HmkwAcqiuM77bcRoqe85DpzZSHjwHDOx1t87IsCDOQbug==",
+  "success": true,
+  "projectFilePath": "/home/cuong/learn_C-/ex1/ex1.csproj",
+  "expectedPackageFiles": [
+    "/home/cuong/.nuget/packages/microsoft.netcore.app.ref/7.0.3/microsoft.netcore.app.ref.7.0.3.nupkg.sha512",
+    "/home/cuong/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512",
+    "/home/cuong/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.3/microsoft.netcore.app.host.linux-x64.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
